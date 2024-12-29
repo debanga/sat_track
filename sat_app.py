@@ -1,3 +1,5 @@
+!pip install ephem -q
+
 import streamlit as st
 import numpy as np
 from datetime import datetime, timedelta
